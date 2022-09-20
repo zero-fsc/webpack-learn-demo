@@ -1,0 +1,14 @@
+.container {
+    width: 100px;
+    height: 200px;
+
+    .container-title {
+        height: 80px;
+        background-color: #fff333;
+        font: {
+            size: 16px;
+            weight: bold;
+            family: 'Micsroft-YaHei'
+        }
+    }
+}
